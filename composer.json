@@ -1,5 +1,5 @@
 {
-  "name": "karelwintersky/monolog-pdo-handler",
+  "name": "l0rb/monolog-pdo-handler",
   "description": "A handler for Monolog that stores data via PDO driver to Database",
   "keywords": [
     "log",
